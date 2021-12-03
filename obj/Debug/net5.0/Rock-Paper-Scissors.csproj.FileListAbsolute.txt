@@ -1,0 +1,16 @@
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.exe
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.deps.json
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.runtimeconfig.json
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.runtimeconfig.dev.json
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.dll
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\ref\Rock-Paper-Scissors.dll
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\bin\Debug\net5.0\Rock-Paper-Scissors.pdb
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.AssemblyInfo.cs
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.dll
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\ref\Rock-Paper-Scissors.dll
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.pdb
+C:\Users\phili\Desktop\Learning-to-code\Revature\Rock-Paper-Scissors\obj\Debug\net5.0\Rock-Paper-Scissors.genruntimeconfig.cache
